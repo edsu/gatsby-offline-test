@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Food",
+    title: "gatsby-offline-test",
   },
   plugins: [
     "gatsby-plugin-styled-components",
